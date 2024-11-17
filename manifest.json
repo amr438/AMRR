@@ -11,7 +11,7 @@
   "icons": [
     {
       "src": "imgs/mosque_2319870.png",
-      "sizes": "144x144",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     }
