@@ -10,7 +10,25 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "imgs/mosque_2319870.png",
+      "src": "imgs/32x32.ico",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "imgs/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "imgs/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "imgs/web-app-manifest-512x512.png.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
